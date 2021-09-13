@@ -1,0 +1,12 @@
+.main-container{
+    background-color: #F8F8F8;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 500px;
+    border-radius: 4px;
+    box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.main-container h1{
+    text-align: center;
+}
